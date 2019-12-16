@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1023106243064",
+    "firebase_url": "https://android-family-tracking.firebaseio.com",
+    "project_id": "android-family-tracking",
+    "storage_bucket": "android-family-tracking.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023106243064:android:55df534aa35785a4",
+        "android_client_info": {
+          "package_name": "com.android.familytracking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1023106243064-a3e9qqiofr1jkr99je1d0ore6kc9hutf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.familytracking",
+            "certificate_hash": "bd4840ad3cdec609cff265c31f985d211fbc127f"
+          }
+        },
+        {
+          "client_id": "1023106243064-abhuq6d0us3fa0dj1jdka50i3uqulg68.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCA0AioT80QxuOak8x77t9FMel4T-V2HNA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1023106243064-abhuq6d0us3fa0dj1jdka50i3uqulg68.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
